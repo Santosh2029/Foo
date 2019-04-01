@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Git Folder2/v15/Server/sqlite3/db.lock
+/.vs/Git Folder2/v15/Server/sqlite3/storage.ide
+/.vs/Git Folder2/v15/Server/sqlite3/storage.ide-shm
+/.vs/Git Folder2/v15/Server/sqlite3/storage.ide-wal
+/.vs/Git Folder2/v15/.suo
